@@ -13,6 +13,7 @@ export default function Home() {
           twitter
         </Link>
         <Link href="https://www.linkedin.com/in/shamiullah-khan-988768218/">linkedin</Link>
+        <Link href="https://monkeytype.com/profile/shamikhan005">monkeytype</Link>
       </div>
     </div>
   );
